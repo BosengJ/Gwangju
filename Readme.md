@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-- [인공지능 사례 분석 ]
+- [인공지능 사례 분석 ](https://github.com/BosengJ/Gwangju/blob/master/1주차_과제.ipynb)
 
 ## 2주차 과제 (2020.05.28)
 
