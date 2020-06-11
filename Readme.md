@@ -10,7 +10,6 @@
 
 ## 3주차 과제 (2020.06.11)
 
-- [파이썬과 인공지능 기초수학](https://github.com/BosengJ/Gwangju/blob/master/3주차_과제.ipynb)
-
+- [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/BosengJ/Gwangju/blob/master/3주차_과제.ipynb)
 
 
