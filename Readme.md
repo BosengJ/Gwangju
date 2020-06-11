@@ -7,3 +7,10 @@
 ## 2주차 과제 (2020.05.28)
 
 - [파이썬과 인공지능 기초수학](https://github.com/BosengJ/Gwangju/blob/master/2주차과제.ipynb)
+
+## 3주차 과제 (2020.06.11)
+
+- [파이썬과 인공지능 기초수학](https://github.com/BosengJ/Gwangju/blob/master/3주차_과제.ipynb)
+
+
+
